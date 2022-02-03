@@ -1,0 +1,6 @@
+# works in python3
+print("hello " + input("What is your name?"))
+print("*************")
+
+print(len(input("What is your name...?")))
+print(len("satish"))
