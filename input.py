@@ -4,3 +4,6 @@ print("*************")
 
 print(len(input("What is your name...?")))
 print(len("satish"))
+print("*************")
+name = input("What is your name?")
+print(name)
