@@ -1,7 +1,10 @@
 import random
-import pi_file
 
-rand = random.randint(1, 100)
-print(rand)
+rand_int = random.randint(1, 100)
+print(rand_int)
 
-print(pi_file.pi)
+rand_float = random.random()
+print(rand_float)
+
+rand_float = random.random() * 5
+print(rand_float)
