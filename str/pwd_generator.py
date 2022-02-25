@@ -9,3 +9,9 @@ def get_random_string(length):
   print("Random string of length", length, "is:", result_str)
 
 get_random_string(8)
+
+
+# # get random password pf length 8 with letters, digits, and symbols
+# characters = string.ascii_letters + string.digits + string.punctuation
+# password = ''.join(random.choice(characters) for i in range(8))
+# print("Random password is:", password)
