@@ -1,8 +1,10 @@
 # pyRepo
----------------------------------------
+## ---------------------------------------
+## To check version
+* python3 --version
 
-python3 --version -------> Python 3.5.2
-
-python3 hello.py
-
-python hello.py
+## To open a irb like console
+* python3
+ 
+## to run a py program
+* python3 hello.py
