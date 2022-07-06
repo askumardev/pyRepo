@@ -7,6 +7,8 @@ print("Substraction = ",b - a) #3
 print("Multiplication = ",a * b) #18
 
 print("Division = ", b / a) #2.0
+print("Integer Division = ", b // a) #2
+print("Modulus Division = ", 10 % a) #1
 
 print("Exponent = ", 2**3) #8
 
