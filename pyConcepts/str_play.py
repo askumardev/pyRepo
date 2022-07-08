@@ -11,3 +11,9 @@ print(name[3:15]) #ishkumar
 #print(name)
 print("si"+name[3:]) #siishkumar
 print(len(name)) #11
+
+str1 = "Satish".lower()
+print(str1)
+
+str2 = str1.count("s")
+print(str2)
