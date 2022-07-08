@@ -1,0 +1,5 @@
+#Arithmatic operators(+,-,*,/,%)
+#Assignment operators(=)
+#Relational operators(<,>.<=,>=)
+#logical operators(and,or,not)
+# unary operators(negation(-))
