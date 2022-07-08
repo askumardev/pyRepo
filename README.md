@@ -17,18 +17,18 @@ ATTRIBUTEMETHODS&nbsp;&nbsp;    DICTIONARYLITERALS&nbsp;&nbsp;  MAPPINGS&nbsp;&n
 ATTRIBUTES&nbsp;&nbsp;          DYNAMICFEATURES&nbsp;&nbsp;     METHODS&nbsp;&nbsp;             SPECIALIDENTIFIERS\
 AUGMENTEDASSIGNMENT&nbsp;&nbsp; ELLIPSIS&nbsp;&nbsp;            MODULES&nbsp;&nbsp;             SPECIALMETHODS\
 BASICMETHODS&nbsp;&nbsp;        EXCEPTIONS&nbsp;&nbsp;          NAMESPACES&nbsp;&nbsp;          STRINGMETHODS\
-BINARY              EXECUTION           NONE                STRINGS\
-BITWISE             EXPRESSIONS         NUMBERMETHODS       SUBSCRIPTS\
-BOOLEAN             FLOAT               NUMBERS             TRACEBACKS\
-CALLABLEMETHODS     FORMATTING          OBJECTS             TRUTHVALUE\
-CALLS               FRAMEOBJECTS        OPERATORS           TUPLELITERALS\
-CLASSES             FRAMES              PACKAGES            TUPLES\
-CODEOBJECTS         FUNCTIONS           POWER               TYPEOBJECTS\
-COMPARISON          IDENTIFIERS         PRECEDENCE          TYPES\
-COMPLEX             IMPORTING           PRIVATENAMES        UNARY\
-CONDITIONAL         INTEGER             RETURNING           UNICODE\
-CONTEXTMANAGERS     LISTLITERALS        SCOPING\            
-CONVERSIONS         LISTS               SEQUENCEMETHODS\    
-DEBUGGING           LITERALS            SEQUENCES\
+BINARY&nbsp;&nbsp;              EXECUTION&nbsp;&nbsp;           NONE&nbsp;&nbsp;                STRINGS\
+BITWISE&nbsp;&nbsp;             EXPRESSIONS&nbsp;&nbsp;         NUMBERMETHODS&nbsp;&nbsp;       SUBSCRIPTS\
+BOOLEAN&nbsp;&nbsp;             FLOAT&nbsp;&nbsp;               NUMBERS&nbsp;&nbsp;             TRACEBACKS\
+CALLABLEMETHODS&nbsp;&nbsp;     FORMATTING&nbsp;&nbsp;          OBJECTS&nbsp;&nbsp;             TRUTHVALUE\
+CALLS&nbsp;&nbsp;               FRAMEOBJECTS&nbsp;&nbsp;        OPERATORS&nbsp;&nbsp;           TUPLELITERALS\
+CLASSES&nbsp;&nbsp;             FRAMES&nbsp;&nbsp;              PACKAGES&nbsp;&nbsp;            TUPLES\
+CODEOBJECTS&nbsp;&nbsp;         FUNCTIONS&nbsp;&nbsp;           POWER&nbsp;&nbsp;               TYPEOBJECTS\
+COMPARISON&nbsp;&nbsp;          IDENTIFIERS&nbsp;&nbsp;         PRECEDENCE&nbsp;&nbsp;          TYPES\
+COMPLEX&nbsp;&nbsp;             IMPORTING&nbsp;&nbsp;           PRIVATENAMES&nbsp;&nbsp;        UNARY\
+CONDITIONAL&nbsp;&nbsp;         INTEGER&nbsp;&nbsp;             RETURNING&nbsp;&nbsp;           UNICODE\
+CONTEXTMANAGERS&nbsp;&nbsp;     LISTLITERALS&nbsp;&nbsp;        SCOPING\            
+CONVERSIONS&nbsp;&nbsp;         LISTS&nbsp;&nbsp;               SEQUENCEMETHODS\    
+DEBUGGING&nbsp;&nbsp;           LITERALS&nbsp;&nbsp;            SEQUENCES\
 * quit
 * help(OBJECTS)
