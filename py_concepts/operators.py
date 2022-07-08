@@ -3,3 +3,4 @@
 #Relational operators(<,>.<=,>=)
 #logical operators(and,or,not)
 # unary operators(negation(-))
+# bitwise operators(Complement(~), And(&), OR(|), XOR(^), LeftShift(<<), RightShift(>>)))
