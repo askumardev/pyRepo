@@ -1,0 +1,22 @@
+nums = [2,34,54,65,76,21,'satish']
+nums.insert(2,77) 
+print(nums) #[2, 34, 77, 54, 65, 76, 21, 'satish']
+nums.remove(21)
+print(nums) #[2, 34, 77, 54, 65, 76, 'satish']
+nums.pop(3)
+print(nums) #[2, 34, 77, 65, 76, 'satish']
+nums.pop()
+print(nums) #[2, 34, 77, 65, 76]
+
+del nums[2:]
+print(nums) #[2, 34]
+
+nums.extend([32,41,53])
+print(nums) #[2, 34, 32, 41, 53]
+
+print(min(nums)) #2
+print(max(nums)) #53
+print(sum(nums)) #162
+
+nums.sort()
+print(nums) #[2, 32, 34, 41, 53]
