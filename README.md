@@ -7,3 +7,28 @@
  
 ### to run a py program
 * python3 hello.py
+
+### for documentation in python3 console
+* >>> help()
+* help> topics
+ASSERTION           DELETION            LOOPING             SHIFTING
+ASSIGNMENT          DICTIONARIES        MAPPINGMETHODS      SLICINGS
+ATTRIBUTEMETHODS    DICTIONARYLITERALS  MAPPINGS            SPECIALATTRIBUTES
+ATTRIBUTES          DYNAMICFEATURES     METHODS             SPECIALIDENTIFIERS
+AUGMENTEDASSIGNMENT ELLIPSIS            MODULES             SPECIALMETHODS
+BASICMETHODS        EXCEPTIONS          NAMESPACES          STRINGMETHODS
+BINARY              EXECUTION           NONE                STRINGS
+BITWISE             EXPRESSIONS         NUMBERMETHODS       SUBSCRIPTS
+BOOLEAN             FLOAT               NUMBERS             TRACEBACKS
+CALLABLEMETHODS     FORMATTING          OBJECTS             TRUTHVALUE
+CALLS               FRAMEOBJECTS        OPERATORS           TUPLELITERALS
+CLASSES             FRAMES              PACKAGES            TUPLES
+CODEOBJECTS         FUNCTIONS           POWER               TYPEOBJECTS
+COMPARISON          IDENTIFIERS         PRECEDENCE          TYPES
+COMPLEX             IMPORTING           PRIVATENAMES        UNARY
+CONDITIONAL         INTEGER             RETURNING           UNICODE
+CONTEXTMANAGERS     LISTLITERALS        SCOPING             
+CONVERSIONS         LISTS               SEQUENCEMETHODS     
+DEBUGGING           LITERALS            SEQUENCES
+* quit
+* help(OBJECTS)
