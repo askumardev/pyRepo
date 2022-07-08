@@ -4,6 +4,9 @@ print(data) #{1: 'satish', 2: 13, 3: 'kumar', 4: 10.5}
 print(data[2]) #13
 #print(data[5]) #KeyError: 5
 
+print(data.keys()) #dict_keys([1, 2, 3, 4])
+print(data.values()) #dict_values(['satish', 13, 'kumar', 10.5])
+
 print(data.get(1)) #satish
 print(data.get(5)) #None
 print(data.get(5,'Not Found')) #Not Found

@@ -5,7 +5,7 @@ print(str)
 print("*************")
 print("print('hellooooo.')")
 print("*************")
-print('Hello, world1\nHello, world2\nHello, world3')
+print('Hello, world1\nHello, world2\nHello, world3') #new line
 print("*************")
 print('ex: print("Hello"+"world")')
 print('Concatenation can be done with "+" sign')

@@ -1,3 +1,11 @@
+#Datatypes
+#----------------------------------------
+#None, Numeric, List,
+#Tuple, Set, String, Range, Dictionary
+#----------------------------------------
+#Numeric - int,float,complex,bool
+#----------------------------------------
+
 #String
 str1 = "Hello, world..."
 print(str1[3])
@@ -5,7 +13,7 @@ print(type(str1))
 
 #Integer
 x = 123
-print(x)
+print(x) #123
 print(x + 7) #130
 print(type(x)) #<class 'str'>
 print(x) #123
@@ -30,6 +38,11 @@ int_pi = int(pi)
 print(int_pi)
 #print(len(pi)) #TypeError: object of type 'float' has no len()
 
+#complex
+num = 6 + 9j
+print(type(num)) #<class 'complex'>
+print(num) #(6+9j)
+
 #Boolean
 bool = True
 print(bool)
@@ -37,3 +50,11 @@ print(type(bool)) #<class 'bool'>
 bool = False
 print(bool)
 print(type(bool)) #<class 'bool'>
+
+#type conversions
+a = 5.6
+b = int(a)
+print(b) #5
+
+c = float(b)
+print(c) #5.0
