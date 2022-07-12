@@ -7,6 +7,7 @@
  
 ### to run a py program
 * python3 hello.py
+* python3 -i for_loop.py --->for interactive
 
 ### for documentation in python3 console
 * `>>> help()`
