@@ -33,3 +33,4 @@ CONVERSIONS&nbsp;&nbsp;         LISTS&nbsp;&nbsp;               SEQUENCEMETHODS\
 DEBUGGING&nbsp;&nbsp;           LITERALS&nbsp;&nbsp;            SEQUENCES\
 * quit
 * help(OBJECTS)
+* >>> `quit()` or `exit()`
