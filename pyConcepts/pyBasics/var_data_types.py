@@ -54,3 +54,5 @@ s = "123.456"
 s2 = float(s)
 print(s2) #123.456
 print(int(s2)) #123
+
+# python3 pyConcepts/pyBasics/var_data_types.py
