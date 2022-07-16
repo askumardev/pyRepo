@@ -25,3 +25,5 @@ print(sum(nums)) #162
 
 nums.sort()
 print(nums) #[2, 32, 34, 41, 53]
+
+# python3 pyConcepts/pyBasics/list_methods.py
