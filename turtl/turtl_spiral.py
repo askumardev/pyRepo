@@ -23,3 +23,5 @@ for i in range(100):
     t.left(angle)
     distance += 0.5
 t.exitonclick() # Quit program when user clicks the mouse button
+
+# python3 turtl/turtl_spiral.py
