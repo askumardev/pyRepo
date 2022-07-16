@@ -20,3 +20,6 @@ combine = nums + names
 print(combine) #[2, 34, 54, 65, 76, 21, 'satish', 10.2, 'kiran', 17]
 combine = [nums, names]
 print(combine) #[[2, 34, 54, 65, 76, 21, 'satish'], [10.2, 'kiran', 17]]
+
+
+# python3 pyConcepts/pyBasics/list.py
