@@ -15,3 +15,5 @@ print(a,b,_) #4 5 6
 
 #a,b = 1,2,3
 #print(a,b,c) #ValueError: too many values to unpack (expected 2)
+
+# python3 pyConcepts/pyBasics/var_declaration.py
