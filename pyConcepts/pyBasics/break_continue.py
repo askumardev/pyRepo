@@ -9,4 +9,11 @@ for i in range(1,20):
   print(i)
 print("Bye")
 
+
+#to run a empty function we can use pass
+def fun():
+  pass
+
+print("testing pass keyword")
+
 #python3 pyConcepts/pyBasics/break_continue.py 
