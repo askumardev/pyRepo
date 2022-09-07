@@ -5,10 +5,4 @@ print ("Read String is : ", str)
 # Close opened file
 fo.close()
 
-# foo = open("foo.txt", "w")
-# foo.write( "Python is a great language.\nYeah its great!!\n")
-
-# # Close opend file
-# foo.close()
-
 #python3 pyConcepts/files/file_read.py
