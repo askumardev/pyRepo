@@ -8,4 +8,7 @@ print (time.localtime());
 localtime = time.localtime(time.time())
 print ("Local current time :", localtime)
 
+localtime = time.asctime( time.localtime(time.time()) )
+print ("Local current time :", localtime)
+
 #python3 pyConcepts/date_time/time.py
