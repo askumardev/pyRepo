@@ -24,4 +24,4 @@ print(no) #7.0
 no = 3 * (3 + 3) / 3 - 3
 print(no) #3.0
 
-#python3 pyConcepts/pyBasics/arithimatic.py
+#python3 Basics/ds/arithimatic.py
