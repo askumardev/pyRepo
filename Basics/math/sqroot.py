@@ -1,4 +1,4 @@
-# python3 pyConcepts/pyBasics/sqroot.py
+#python3 Basics/ds/sqroot.py
 
 # Python Program to calculate the square root
 

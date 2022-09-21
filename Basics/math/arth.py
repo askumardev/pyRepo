@@ -1,4 +1,4 @@
-# python3 pyConcepts/pyBasics/arth.py
+#python3 Basics/ds/arth.py
 
 def add(a,b):
      return a+b
