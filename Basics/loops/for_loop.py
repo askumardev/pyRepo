@@ -17,4 +17,4 @@ for i in range(11,21,2):
 for i in range(20,10,-2):
   print(i)
 
-# python3 pyConcepts/pyBasics/for_loop.py
+# python3 Basics/loops/for_loop.py
