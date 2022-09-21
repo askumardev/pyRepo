@@ -1,4 +1,4 @@
-#python3 Basics/ds/primeno_check.py
+# python3 Basics/math/primeno_check.py
 
 # Program to check if a number is prime or not
 
