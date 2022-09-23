@@ -4,4 +4,4 @@ say()
 import hello as hi #alias
 hi.say()
 
-# python3 pyConcepts/moduleDemo/greet.py
+# python3 adv/oop/modDemo/greet.py

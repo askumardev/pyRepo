@@ -19,4 +19,4 @@ print("Employee.__module__:", Employee.__module__)
 print("Employee.__bases__:", Employee.__bases__)
 print("Employee.__dict__:", Employee.__dict__)
 
-#python3 pyConcepts/classDemo/emp_cls.py
+# python3 adv/oop/classDemo/emp_cls.py
