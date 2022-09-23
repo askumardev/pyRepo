@@ -1,3 +1,5 @@
+# python3 Basics/math/same_num_addition.py
+
 num = input("Enter a 2 digit number?\n")
 print(type(num)) #<class 'str'>
 

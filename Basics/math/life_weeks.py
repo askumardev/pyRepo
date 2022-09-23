@@ -1,3 +1,5 @@
+# python3 Basics/math/life_weeks.py
+
 age = input("Enter ur age")
 
 age_int = int(age)

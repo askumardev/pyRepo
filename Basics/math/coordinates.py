@@ -1,3 +1,5 @@
+# python3 Basics/math/coordinates.py
+
 # Use some functions and values from the math module
 from math import sqrt, sin, cos, pi, radians
 print('When promted to enter the values of x and y; chose the x-value between 5000 to 10000 for the first position')
@@ -17,9 +19,9 @@ SIN_theta = sin(rads)
 # Make a complete revolution (6*60 = 360 degrees)
 for increment in range(0, 7):
 # Compute the distance to the satellite
-    dist = sqrt((px - x)*(px - x) + (py - y)*(py - y))
-    print('Distance to satellite {0:10.2f} km'.format(dist))
+  dist = sqrt((px - x)*(px - x) + (py - y)*(py - y))
+  print('Distance to satellite {0:10.2f} km'.format(dist))
 # Compute the satellite's new (x, y) location after rotating by 60 degrees
-    x, y = x*COS_theta - y*SIN_theta, x*SIN_theta + y*COS_theta
+  x, y = x*COS_theta - y*SIN_theta, x*SIN_theta + y*COS_theta
 
 print(" The program run successfully and there are no error.")

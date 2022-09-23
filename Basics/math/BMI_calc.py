@@ -1,3 +1,5 @@
+# python3 Basics/math/BMI_calc.py
+
 ht = float(input("Enter ur height in m: \n"))
 wt = float(input("Enter ur weight in kg: \n"))
 

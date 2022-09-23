@@ -1,3 +1,5 @@
+# python3 Basics/math/arithimatic.py
+
 a = 3
 b = 6
 print("Addition = ", a + b) #9
@@ -23,5 +25,3 @@ print(no) #7.0
 
 no = 3 * (3 + 3) / 3 - 3
 print(no) #3.0
-
-#python3 Basics/math/arithimatic.py

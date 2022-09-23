@@ -1,3 +1,5 @@
+# python3 Basics/math/BMI_calculator.py
+
 ht = input("Enter ur height in m: \n")
 wt = input("Enter ur weight in kg: \n")
 

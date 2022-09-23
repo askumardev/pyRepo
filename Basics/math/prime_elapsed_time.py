@@ -1,3 +1,5 @@
+# python3 Basics/math/prime_elapsed_time.py
+
 # Ler's find the time elapsed to count the number of prime numbers or prine factors
 # efficiently using the improved version of the code using sqrt function from math module. 
 from math import sqrt
