@@ -1,3 +1,5 @@
+# python3 misc/hello.py
+
 print("Hello, world...")
 print("*************")
 str = 'hello world'

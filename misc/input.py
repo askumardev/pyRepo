@@ -1,5 +1,6 @@
-# works in python3
+# python3 misc/misc.py
 
+# works in python3
 # prompts in the same line
 print("hello " + input("What is your name?"))
 
