@@ -8,4 +8,4 @@ print(keyword.kwlist)
 'try', 'while', 'with', 'yield']
 """
 
-# python3 pyConcepts/pyBasics/keyword.py
+# python3 Basics/keyword.py

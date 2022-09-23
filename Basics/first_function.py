@@ -4,4 +4,4 @@ def fun():
 fun() #*****first function*****
 print(fun()) #*****first function***** && None
 
-# python3 pyConcepts/pyBasics/first_function.py
+# python3 Basics/first_function.py

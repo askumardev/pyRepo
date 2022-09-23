@@ -5,4 +5,4 @@
 x = lambda a : a + 10
 print(x(5)) #15
 
-# python3 pyConcepts/pyBasics/lambda.py 
+# python3 Basics/lambda.py 

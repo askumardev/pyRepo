@@ -3,4 +3,4 @@ print(result)
 
 #enter a expression::2 +3 -1
 
-# python3 pyConcepts/pyBasics/eval_demo.py
+# python3 Basics/eval_demo.py

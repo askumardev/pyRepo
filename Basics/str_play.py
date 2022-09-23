@@ -18,4 +18,4 @@ print(str1)
 str2 = str1.count("s")
 print(str2)
 
-# python3 pyConcepts/pyBasics/str_play.py
+# python3 Basics/str_play.py

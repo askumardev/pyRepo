@@ -6,5 +6,5 @@ y = int(sys.argv[2])
 z = x + y
 print(z)
 
-#python3 py_concepts/input_from_cmd.py 3 4
+# python3 Basics/input_from_cmd.py 3 4
 #

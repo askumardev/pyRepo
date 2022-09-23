@@ -20,4 +20,4 @@ a_b_c_d = 8 #valid
 #9x = False #SyntaxError: invalid syntax
 #$y = False #SyntaxError: invalid syntax
 
-# python3 pyConcepts/pyBasics/variables.py
+# python3 Basics/variables.py

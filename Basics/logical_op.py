@@ -7,4 +7,4 @@ print('x or y is',x or y) #True or False => True
 
 print('not x is',not x) #not True => False
 
-# python3 pyConcepts/pyBasics/logical_op.py
+# python3 Basics/logical_op.py

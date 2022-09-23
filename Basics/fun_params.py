@@ -16,4 +16,4 @@ greet("Hello")
 printinfo( 10 )
 printinfo( 70, 60, 50 )
 
-# python3 pyConcepts/pyBasics/fun_params.py
+# python3 Basics/fun_params.py

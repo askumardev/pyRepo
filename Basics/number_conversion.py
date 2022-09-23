@@ -7,4 +7,4 @@ print(0o30)  #24  --> octal to decimal
 print(hex(25)) #0x19 -->decimal to hedadecimal
 print(0x16)  #22 hexadecimal to decimal
 
-# python3 pyConcepts/pyBasics/number_conversion.py
+# python3 Basics/number_conversion.py
