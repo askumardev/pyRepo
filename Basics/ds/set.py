@@ -12,4 +12,4 @@ print(s) #{1, 12, 45, 15, 16, 23, 31}
 
 #print(s[2]) #TypeError: 'set' object does not support indexing
 
-# python3 pyConcepts/pyBasics/set.py
+# python3 Basics/ds/set.py

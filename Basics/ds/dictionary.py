@@ -1,3 +1,5 @@
+# python3 Basics/ds/dictionary.py
+
 data = {1:"satish", 2:13, 3:"kumar", 4:10.5}
 print(data) #{1: 'satish', 2: 13, 3: 'kumar', 4: 10.5}
 
@@ -22,5 +24,3 @@ print(new) #{'ram': 1, 'kumar': 4, 'shyam': 3, 'kiran': 5}
 
 del new['kumar']
 print(new) #{'ram': 1, 'shyam': 3, 'kiran': 5}
-
-#python3 pyConcepts/pyBasics/dictionary.py

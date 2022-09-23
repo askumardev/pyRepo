@@ -1,3 +1,5 @@
+# python3 Basics/ds/list_methods.py
+
 ary = [1,2,2,3,1,4,1]
 nums = [2,34,54,65,76,21,'satish']
 nums.insert(2,77) 
@@ -25,5 +27,3 @@ print(sum(nums)) #162
 
 nums.sort()
 print(nums) #[2, 32, 34, 41, 53]
-
-# python3 pyConcepts/pyBasics/list_methods.py
