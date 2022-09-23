@@ -13,4 +13,4 @@ def print_author():
 
 print_author()
 
-#python3 pyConcepts/sample/1.py
+# python3 adv/sample/1.py
