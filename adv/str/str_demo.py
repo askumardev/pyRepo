@@ -7,4 +7,4 @@ print('satish "kumar"')
 print('satish\'s "laptop"')
 #satish's "laptop"
 
-# python3 pyConcepts/str/str_demo.py
+# python3 adv/str/str_demo.py

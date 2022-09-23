@@ -15,4 +15,4 @@ password(8)
 # password = ''.join(random.choice(characters) for i in range(8))
 # print("Random password is:", password)
 
-# python3 pyConcepts/str/pwd_generator.py
+# python3 adv/str/pwd_generator.py
