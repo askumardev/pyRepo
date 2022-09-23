@@ -4,4 +4,4 @@ print ("Closed or not : ", fo.closed)
 print ("Opening mode : ", fo.mode)
 fo.close()
 
-#python3 pyConcepts/files/file_open.py
+# python3 adv/files/file_open.py

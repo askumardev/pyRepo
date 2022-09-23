@@ -5,3 +5,5 @@ f.close()
 #open and read the file after the appending:
 f = open("demofile2.txt", "r")
 print(f.read())
+
+# python3 adv/files/write_file.py
