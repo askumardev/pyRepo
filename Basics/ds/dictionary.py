@@ -14,6 +14,9 @@ print(data.values()) #dict_values(['satish', 13, 'kumar', 10.5])
 print(data.get(1)) #satish
 print(data.get(5)) #None
 print(data.get(5,'Not Found')) #Not Found
+#print(data[5]) # print(data[5])  ## KeyError: 5
+data[5] = "ramu"
+print(data) #{1: 'satish', 2: 13, 3: 'kumar', 4: 10.5, 5: 'ramu'}
 
 keys = ["ram","kumar","shyam"]
 values = [1,2,3]
