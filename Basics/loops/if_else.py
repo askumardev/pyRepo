@@ -8,4 +8,4 @@ elif (i == 20):
 else:
   print("i is not present")
 
-# python3 Basics/loops/cond_if_else.py
+# python3 Basics/loops/if_else.py
