@@ -1,6 +1,7 @@
+#A tuple is an ordered collection of data.
 #tuples are immutable
 #iterations in tuples are faster than lists
-tup = (23,34,45,54,1)
+tup = (23,34,45,54,1,"satish")
 print(tup) #(23, 34, 45, 54, 1)
 
 print(tup[2]) #45
