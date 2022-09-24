@@ -1,5 +1,7 @@
 # pyRepo-
 
+### pip3 install numpy
+
 ### To check version
 
 * python3 --version
