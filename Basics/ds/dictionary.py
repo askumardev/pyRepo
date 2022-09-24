@@ -36,3 +36,8 @@ dict3=dict({1:"apple",2:"cherry",3:"strawberry"})
 print(dict1)
 print(dict2)
 print(dict3)
+
+prog ={'js':'atom','cs':'vs','python':['pycharm','sublime'],'java':{'jse':'netbeans','jee':'eclipse'}}
+print(prog)
+print(prog['python'])
+print(prog['java'])
