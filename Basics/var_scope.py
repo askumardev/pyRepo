@@ -29,7 +29,7 @@ def global_ex():
 
 sayy()
 say()
-global_ex()
+#global_ex()
 #sayyy()
 
 
