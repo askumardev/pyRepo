@@ -1,4 +1,4 @@
-# python3 Basics/oop/inheritance.py
+# python3 Basics/oop/multilevel_inheritance.py
 
 class A:
 
@@ -18,11 +18,19 @@ class B(A):
   def m3(self):
     print("method3")
   
-  def m4(self):
-    print("method4")
 print("***B class methods***")
 b = B()
 b.m1()
 b.m2()
 b.m3()
-b.m4()
+
+class C(B):
+  def m4(self):
+    print("method4")
+
+print("***C class methods***")
+c = C()
+c.m1()
+c.m2()
+c.m3() #method from B class
+c.m4()
