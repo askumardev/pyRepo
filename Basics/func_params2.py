@@ -14,7 +14,7 @@ def person(name,age=45): ##passing value by default
 
 def sum( a, *b ):  #variable length arguments
   "This prints a variable passed arguments"
-  c = 0
+  c = a
 
   for i in b:
     c = c + i
