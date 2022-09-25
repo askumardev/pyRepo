@@ -1,20 +1,23 @@
-# A lambda function is a small anonymous function.
+# python3 Basics/lambda.py
+# lambda using filter, map and reduce
 
-# A lambda function can take any number of arguments, but can only have one expression.
+# def isEven(n):
+#   return n%2==0
 
-def add(a):
-  return a + 10
+# nums = [1,2,3,4,5,6,7,8,9]
+# evens = list(filter(isEven,nums))
+# print(evens)
 
-result = add(5)
-print(result)
+from functools import reduce
 
-print("****************")
+nums = [1,2,3,4,5,6,7,8,9]
 
-x = lambda a : a + 10
-y = lambda a : a * 10
-sq = lambda a : a * a
-print(x(5)) #15
-print(y(5)) #50
-print(sq(5)) #50
+evens = list(filter(lambda n : n%2==0,nums))
+plus2 = list(map(lambda n : n+2,evens))
+double = list(map(lambda n : n*2,evens))
+sum = reduce(lambda a,b : a+b,double)
 
-# python3 Basics/lambda.py 
+print(evens)
+print(plus2)
+print(double)
+print(sum)
