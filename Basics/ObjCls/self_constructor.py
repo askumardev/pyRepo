@@ -1,4 +1,4 @@
-# python3 adv/oop/ObjCls/self_constructor.py
+# python3 Basics/ObjCls/self_constructor.py
 
 class Computer:
 

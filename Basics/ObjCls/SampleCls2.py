@@ -1,4 +1,4 @@
-# python3 adv/oop/ObjCls/SampleCls2.py
+# python3 Basics/ObjCls/SampleCls2.py
 
 class Computer:
 
