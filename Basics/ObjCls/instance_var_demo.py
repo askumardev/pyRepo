@@ -1,12 +1,14 @@
 # python3 Basics/ObjCls/instance_var_demo.py
 
+#instance variables differ for objects where as clas objects do not
+
 class Employee:
   'Common base class for all employees'
-  empCount = 0
+  empCount = 0  #class variable
 
   def __init__(self, name, salary):
-    self.name = name
-    self.salary = salary
+    self.name = name  #instance variable
+    self.salary = salary #instance variable
     Employee.empCount += 1
    
   def displayCount(self):
