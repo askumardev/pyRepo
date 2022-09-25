@@ -6,7 +6,6 @@
 from array import *
 from numpy import *
 
-
 arr1 = array([1,3,5,7])
 arr1a = array([1,3,5,7.5])
 arr2 = array(([1,2,3],[4,5,6]))
