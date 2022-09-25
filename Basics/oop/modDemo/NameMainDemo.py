@@ -1,5 +1,4 @@
-# python3 adv/oop/modDemo/NameMainDemo.py
-
+# python3 Basics/oop/modDemo/NameMainDemo.py
 
 import NameMain
 

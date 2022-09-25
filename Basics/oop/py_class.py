@@ -9,4 +9,4 @@ class Person:
 p1 = Person("John", 36)
 p1.myfunc()
 
-#python3 pyConcepts/oop/py_class.py
+#python3 Basics/oop/py_class.py

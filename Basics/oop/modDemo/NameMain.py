@@ -1,5 +1,4 @@
-# python3 adv/oop/modDemo/NameMain.py
-
+# python3 Basics/oop/modDemo/NameMain.py
 
 def main():
   print("hello")

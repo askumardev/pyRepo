@@ -1,4 +1,4 @@
-# python3 adv/oop/modDemo/calc_demo.py
+# python3 Basics/oop/modDemo/calc_demo.py
 
 # import Calculator
 
