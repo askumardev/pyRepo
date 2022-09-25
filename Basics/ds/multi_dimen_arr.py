@@ -1,6 +1,5 @@
 # python3 Basics/ds/multi_dimen_arr.py
 
-
 from numpy import *
 
 arr1 = array([
