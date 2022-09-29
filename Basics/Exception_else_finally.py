@@ -4,6 +4,7 @@
 # choose what happens when no exceptions occur during the execution of the try clause
 
 #  We can also add a finally clause if we need to run code that should always run, even if an exception is raised in try.
+# The finally clause always runs.
 
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))
