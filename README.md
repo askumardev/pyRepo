@@ -2,6 +2,8 @@
 
 ### pip3 install numpy
 
+pip3 install psycopg2 -- pg db connection
+
 ### To check version
 
 * python3 --version
