@@ -7,7 +7,7 @@ print("Hello, world...")
 print("Hello, World!")
 
 """
-This is a comment
+This is a comment ****use only for documentation***
 written in
 more than just one line
 """
