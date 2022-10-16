@@ -9,3 +9,5 @@
 # * * imperative
 # * * functional programming
 # * * procedural styles
+
+# python src code --> compiler --> bytecode --> interpreter/pvm --> machine language
