@@ -3,7 +3,6 @@
 x = 2
 PI = 3.14
 str = "satish"
-
 q = True
 y = False
 
