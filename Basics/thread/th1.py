@@ -2,7 +2,7 @@ import threading
 
 def print_numbers():
   for i in range(10):
-      print(i)
+    print(i)
 
 # Create a Thread object
 thread = threading.Thread(target=print_numbers)
