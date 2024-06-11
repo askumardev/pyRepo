@@ -13,6 +13,16 @@ print(str[:]) #abcdefgh
 print(str[::2]) #aceg
 
 #Basic methods
+name = "satishkumar"
+print("si"+name[3:]) #siishkumar
+print(len(name)) #11
+
+str1 = "Satish".lower()
+print(str1)
+
+str2 = str1.count("s")
+print(str2)
+
 print(str.upper())
 str1 = "Hello World"
 print(str1.split()) #['Hello', 'World']
