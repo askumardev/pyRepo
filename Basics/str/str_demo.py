@@ -28,10 +28,4 @@ string_methods = dir(str)
 # Display help for the count method
 print(len(string_methods)) #81
 
-#Print Formatting
-x = "Insert some thing here: {}".format("INSERT ME!")
-print(x)
-x = "Item one: {} Item two: {}".format("1","2")
-print(x)
-
 # python3 adv/str/str_demo.py
