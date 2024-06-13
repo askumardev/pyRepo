@@ -1,21 +1,21 @@
-print("satish's laptop") #satish's laptop
-print('satish "kumar"') #satish "kumar"
-print('satish\'s "laptop"') #satish's "laptop"
+print("satish's laptop")  # satish's laptop
+print('satish "kumar"')  # satish "kumar"
+print('satish\'s "laptop"')  # satish's "laptop"
 
 str = "abcdefgh"
-#str[0] = 'X' #TypeError: 'str' object does not support item assignment 
-#MEANS STRINGS IN PYTHON ARE IMMUTABLE
+# str[0] = 'X' #TypeError: 'str' object does not support item assignment
+# MEANS STRINGS IN PYTHON ARE IMMUTABLE
 # Slicing
-print(str[3:]) #defgh
-print(str[:5]) #abcde
-print(str[2:5]) #cde
-print(str[:]) #abcdefgh
-print(str[::2]) #aceg
+print(str[3:])  # defgh
+print(str[:5])  # abcde
+print(str[2:5])  # cde
+print(str[:])  # abcdefgh
+print(str[::2])  # aceg
 
-#Basic methods
+# Basic methods
 name = "satishkumar"
-print("si"+name[3:]) #siishkumar
-print(len(name)) #11
+print("si"+name[3:])  # siishkumar
+print(len(name))  # 11
 
 str1 = "Satish".lower()
 print(str1)
@@ -25,8 +25,8 @@ print(str2)
 
 print(str.upper())
 str1 = "Hello World"
-print(str1.split()) #['Hello', 'World']
-print(str1.split('e')) #['H', 'llo World']
+print(str1.split())  # ['Hello', 'World']
+print(str1.split('e'))  # ['H', 'llo World']
 
 # Use the dir() function to get all attributes and methods of the string object
 string_methods = dir(str)
@@ -36,6 +36,6 @@ string_methods = dir(str)
 # 'endswith', 'expandtabs', 'find', 'format', 'format_map', 'index', 'isalnum', 'isalpha', 'isascii', 'isdecimal', 'isdigit', 'isidentifier', 'islower', 'isnumeric', 'isprintable', 'isspace', 'istitle', 'isupper', 'join', 'ljust', 'lower', 'lstrip', 'maketrans', 'partition', 'removeprefix', 'removesuffix', 'replace', 'rfind', 'rindex', 'rjust', 'rpartition', 'rsplit', 'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase', 'title', 'translate', 'upper', 'zfill']
 
 # Display help for the count method
-print(len(string_methods)) #81
+print(len(string_methods))  # 81
 
 # python3 adv/str/str_demo.py
