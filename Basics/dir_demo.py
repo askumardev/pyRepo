@@ -1,7 +1,8 @@
 # python3 Basics/dir_demo.py
 
 class Samp(object):
-  pass
+    pass
+
 
 print(dir(Samp))
 
