@@ -1,4 +1,4 @@
-# python3 Basics/var_data_types.py
+# python3 Basics/var/var_data_types.py
 
 #Datatypes
 #----------------------------------------
