@@ -4,6 +4,9 @@ print(a,b,c) #2 2 2
 a,b,c = 1,2,3
 print(a,b,c) #1 2 3
 
+a,b,c = 1,2,3
+print(a,c,b) #1 3 2
+ 
 a,b,_ = 4,5,6
 print(a,b,_) #4 5 6
 
