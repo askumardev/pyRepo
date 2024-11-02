@@ -1,4 +1,5 @@
 # python3 Basics/add_digits.py
+
 def add_digits(num):
     if len(str(num)) < 2:
         return num
