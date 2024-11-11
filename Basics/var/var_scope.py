@@ -1,4 +1,4 @@
-# python3 Basics/var_scope.py
+# python3 Basics/var/var_scope.py
 # 
 # #local vs global
 
