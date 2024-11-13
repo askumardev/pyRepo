@@ -1,4 +1,4 @@
-# python3 misc/misc.py
+# python3 Basics/str/input.py
 
 # works in python3
 # prompts in the same line
