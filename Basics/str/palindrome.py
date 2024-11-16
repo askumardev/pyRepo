@@ -14,4 +14,4 @@ if list(my_str) == list(rev_str):
 else:
   print("The string is not a palindrome.")
 
-# python3 Basics/palindrome.py
+# python3 Basics/str/palindrome.py
