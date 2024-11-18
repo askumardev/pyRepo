@@ -1,4 +1,4 @@
-# python3 Basics/iterator.py
+# python3 Basics/lists/iterator.py
 
 arr = [2,3,4,5,6]
 
