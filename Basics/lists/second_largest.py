@@ -1,4 +1,4 @@
-# python3 Basics/second_largest.py
+# python3 Basics/lists/second_largest.py
 
 list_val = []  
   
