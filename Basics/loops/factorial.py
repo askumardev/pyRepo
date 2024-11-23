@@ -1,4 +1,4 @@
-# python3 Basics/factorial.py
+# python3 Basics/loops/factorial.py
 
 def fact(n):
     f = 1
