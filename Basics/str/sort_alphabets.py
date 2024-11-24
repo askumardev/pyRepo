@@ -1,4 +1,4 @@
-# python3 Basics/sort_alphabets.py
+# python3 Basics/str/sort_alphabets.py
 
 my_str = "Hello this Is an Example With cased letters"
 
