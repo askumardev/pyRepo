@@ -38,4 +38,4 @@ string_methods = dir(str)
 # Display help for the count method
 print(len(string_methods))  # 81
 
-# python3 adv/str/str_demo.py
+# python3 Basics/str/str_demo.py
