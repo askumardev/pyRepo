@@ -1,4 +1,4 @@
-# python3 Basics/str_concat.py
+# python3 Basics/str/str_concat.py
 
 print("Enter Two Strings: ", end="")
 strOne = input()
