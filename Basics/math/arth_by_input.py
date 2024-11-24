@@ -1,4 +1,4 @@
-#python3 adv/math/arth_by_input.py
+#python3 Basics/math/arth_by_input.py
 
 a = int(input("Enter value a :"))
 b = int(input("Enter value b :"))
