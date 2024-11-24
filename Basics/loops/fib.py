@@ -1,4 +1,4 @@
-# python3 Basics/fib.py
+# python3 Basics/loops/fib.py
 
 def fib(n):
   a = 0
