@@ -10,4 +10,4 @@ print(x)
 x = "Item one: {y} Item two: {y}".format(x="1",y="2")
 print(x)
 
-# python3 adv/str/str_print_formatting.py
+# python3 Basics/str/str_print_formatting.py
