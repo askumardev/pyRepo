@@ -17,4 +17,4 @@ print(x(5)) #15
 print(y(5)) #50
 print(sq(5)) #50
 
-# python3 Basics/lambda_demo.py 
+# python3 adv/lambda_demo.py
