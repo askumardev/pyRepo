@@ -1,4 +1,4 @@
-# python3 Basics/Exception.py
+# python3 adv/exHandling/Exception.py
 
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))
