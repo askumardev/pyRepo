@@ -1,4 +1,4 @@
-# python3 Basics/Exception_alias.py
+# python3 adv/exHandling/Exception_alias.py
 
 index = int(input("Enter the index: "))
 
