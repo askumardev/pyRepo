@@ -1,4 +1,4 @@
-# python3 Basics/Exception_else_finally.py
+# python3 adv/exHandling/Exception_else_finally.py
 
 # We can add an else clause to this structure after except if we want to 
 # choose what happens when no exceptions occur during the execution of the try clause
