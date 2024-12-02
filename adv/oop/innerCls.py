@@ -1,4 +1,4 @@
-# python3 Basics/ObjCls/innerCls.py
+# python3 adv/oop/innerCls.py
 
 class Student:
 
