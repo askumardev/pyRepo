@@ -1,4 +1,4 @@
-# python3 Basics/ObjCls/instance_class_var.py
+# python3 adv/oop/instance_class_var.py
 
 class Car:
   wheels = 4 #class variable
