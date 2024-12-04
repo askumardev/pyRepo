@@ -1,4 +1,4 @@
-# python3 Basics/ObjCls/instance_var_demo.py
+# python3 adv/oop/instance_var_demo.py
 
 #instance variables differ for objects where as clas objects do not
 
