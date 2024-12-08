@@ -1,4 +1,4 @@
-# python3 Basics/oop/multilevel_inheritance.py
+# python3 adv/oop/multilevel_inheritance.py
 
 class A:
 
