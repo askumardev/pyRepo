@@ -1,4 +1,4 @@
-# python3 Basics/ds/arr_copy.py
+# python3 DSA/arr_copy.py
 # 3 types of copy mechanisms
 
 from numpy import *
