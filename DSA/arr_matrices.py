@@ -1,4 +1,4 @@
-# python3 Basics/ds/arr_matrices.py
+# python3 DSA/arr_matrices.py
 
 from numpy import *
 
