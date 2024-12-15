@@ -1,4 +1,4 @@
-# python3 Basics/ds/arr_append.py
+# python3 DSA/arr_append.py
 
 from array import *
 

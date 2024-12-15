@@ -1,4 +1,4 @@
-# python3 Basics/ObjCls/methods_demo.py
+# python3 adv/oop/methods_demo.py
 
 class Student:
 
