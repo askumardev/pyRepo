@@ -1,4 +1,4 @@
-# python3 Basics/ds/arr_operations.py
+# python3 DSA/arr_operations.py
 
 from numpy import *
 
