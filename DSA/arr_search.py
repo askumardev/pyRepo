@@ -1,4 +1,4 @@
-# python3 Basics/ds/arr_search.py
+# python3 DSA/arr_search.py
 
 from array import *
 
