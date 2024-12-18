@@ -1,4 +1,4 @@
-# python3 Basics/ds/array.py
+# python3 DSA/array.py
 
 # Same as list but difference is all elements are of same type
 
