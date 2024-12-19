@@ -1,4 +1,4 @@
-# python3 Basics/ds/binary_search.py
+# python3 DSA/binary_search.py
 
 def binary_search(list1, n):
   low = 0
