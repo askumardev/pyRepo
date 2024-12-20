@@ -1,4 +1,4 @@
-# python3 Basics/ds/bubble_sort.py
+# python3 DSA/bubble_sort.py
 
 def bubble_sort(list1):
   # Outer loop for traverse the entire list
