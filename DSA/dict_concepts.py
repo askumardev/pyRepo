@@ -9,4 +9,4 @@ print(data['Python'][1]) #sublime
 print(data['Java']) #{'jse': 'netbeans', 'jee': 'eclipse'}
 print(data['Java']['jse']) #netbeans
 
-# python3 Basics/ds/dict_concepts.py
+# python3 DSA/dict_concepts.py
