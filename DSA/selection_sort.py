@@ -1,4 +1,4 @@
-# python3 Basics/ds/selection_sort.py
+# python3 DSA/selection_sort.py
 
 def selectionSort(array, size):   
   for step in range(size):
