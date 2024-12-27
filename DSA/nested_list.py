@@ -9,4 +9,4 @@ print(L[2][2])
 print(L[2][2][0])
 # Prints eee
 
-# python3 Basics/ds/nested_list.py
+# python3 DSA/nested_list.py
