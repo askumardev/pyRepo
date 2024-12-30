@@ -1,4 +1,4 @@
-# python3 Basics/ds/multi_dimen_arr.py
+# python3 DSA/multi_dimen_arr.py
 
 from numpy import *
 
