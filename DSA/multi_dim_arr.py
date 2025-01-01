@@ -1,4 +1,4 @@
-# python3 Basics/ds/multi_dim_arr.py
+# python3 DSA/multi_dim_arr.py
 
 # below are the ways of creating arrays using numpy
 # array,linspace,logspace,arange,zeros,ones
