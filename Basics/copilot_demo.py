@@ -1,3 +1,5 @@
+# python3 Basics/copilot_demo.py
+
 # # Write a python program to reverse a string without using any built-in functions.
 
 # def reverse_string(s):
@@ -34,10 +36,20 @@
 # Not using python helpers:
 
 # In Python, we can use age calculation methods that handle this better.
+from datetime import datetime
+
 def adult(dob):
     if not isinstance(dob, datetime):
         raise ValueError("dob must be a datetime object")
     
     today = datetime.now()
-    age = (today - dob).days / 365.25  # Using 365.25 to account for leap years
+    age = (today - dob).days / 365.25  # Accounts for leap years
     return age >= 18
+
+# Example usage
+dob = datetime(1990, 5, 10)
+print(adult(dob))
+
+# Example usage with invalid input
+dob = datetime(2010, 8, 15)  # Invalid input
+print(adult(dob))
