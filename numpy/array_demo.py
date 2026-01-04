@@ -15,3 +15,5 @@ print(arr1.ndim)
 arr2 = np.array([[['A','B','C'], ['D','E','F']],
                  [['G','H','I'], ['J','K','L']]])
 print(arr2.ndim)
+print(arr2.shape)
+print(arr2[0][0][1])
