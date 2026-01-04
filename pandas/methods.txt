@@ -1,0 +1,46 @@
+Creation & Conversion:
+copy, astype, infer_objects, convert_dtypes
+to_csv, to_excel, to_json, to_parquet, to_sql, …
+
+Indexing & Selection:
+loc, iloc, at, iat, xs, filter
+take, truncate
+
+Missing Data:
+isna, notna
+fillna, dropna, interpolate
+
+Computation & Statistics:
+sum, mean, median, min, max
+std, var, skew, kurt
+corr, cov, describe
+
+Grouping & Reshaping:
+groupby, pivot, pivot_table
+melt, stack, unstack
+explode
+
+Sorting & Ranking:
+sort_values, sort_index
+rank, nlargest, nsmallest
+
+Joins & Combine:
+merge, join, combine, combine_first
+
+Apply & Transform:
+apply, map, applymap, transform, agg
+
+Time Series:
+resample, rolling, expanding, ewm
+shift, tshift, asfreq
+
+Boolean & Comparison:
+eq, ne, gt, lt, ge, le
+where, mask
+
+IO & Display:
+head, tail, sample, info
+style, memory_usage
+
+Plotting:
+plot, hist, box, scatter
