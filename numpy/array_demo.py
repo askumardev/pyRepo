@@ -17,3 +17,9 @@ arr2 = np.array([[['A','B','C'], ['D','E','F']],
 print(arr2.ndim)
 print(arr2.shape)
 print(arr2[0][0][1])
+
+arr3 = np.array([[['A','B','C'], ['D','E','F']],
+                 [['G','H','I'], ['J','K',' ']]])
+print(arr3.ndim)
+word = arr3[0][0][0] + arr3[1][0][0]
+print(word)
