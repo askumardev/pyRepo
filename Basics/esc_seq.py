@@ -1,6 +1,15 @@
 # print("Hello
 #       world...") #SyntaxError: unterminated string literal (detected at line 1)
 
+print("print('hellooooo.')")
+print("*************")
+print('Hello, world1\nHello, world2\nHello, world3') #new line
+print("*************")
+print('ex: print("Hello"+"world")')
+print('Concatenation can be done with "+" sign')
+print('Hello'+' world')
+print('Hello'+' '+'world')
+print("*************")
 print("Hello \nworld...")
 print("Hello \tworld...")
 print("Hello \rworld...")
