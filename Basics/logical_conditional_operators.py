@@ -19,7 +19,9 @@ print(True or False) #True
 print(False or True) #True
 print(False or False) #False
 print(not True) #False
-print(not False) #True  
+print(not False) #True
+# print(not(True)) #False
+# print(not(False)) #True  
 
 print("==============Conditional operators=====================")
 
