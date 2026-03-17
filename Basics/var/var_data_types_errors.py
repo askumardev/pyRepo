@@ -1,4 +1,4 @@
-# python3 Basics/var/var_data_types.py
+# python3 Basics/var/var_data_types_error.py
 
 #Datatypes
 #----------------------------------------
@@ -56,3 +56,9 @@ s = "123.456"
 s2 = float(s)
 print(s2) #123.456
 print(int(s2)) #123
+
+# a = input("Enter a number: ") #Enter a number: 10
+# print(a + 3) # TypeError: can only concatenate str (not "int") to str
+
+a = int(input("Enter a number: ")) #Enter a number: 10
+print(a + 3) # 13
