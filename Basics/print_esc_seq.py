@@ -1,3 +1,10 @@
+print('Hello World', "Welcome")
+print('Hello World' + " Welcome")
+print('Hello World', "Welcome", sep='-')
+
+print('Hello World', "Welcome", sep='-')
+print('Hello World', "Welcome", end='!')
+print("*************")
 # print("Hello
 #       world...") #SyntaxError: unterminated string literal (detected at line 1)
 
