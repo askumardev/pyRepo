@@ -15,6 +15,8 @@ print("-----------------------------")
 a = 'Hello'
 b = "Hello"
 print(a == b)  # True
+print("-----------------------------")
+
 
 # 🔥 Real-World Guideline
 # Use single quotes ' ' by default
