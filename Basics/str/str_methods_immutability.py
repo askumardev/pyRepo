@@ -20,6 +20,7 @@ print(tst3.lstrip())  # Python is great
 print(tst3.rstrip())  #  Python is great
 print(tst3.find("is"))  # 8
 print(tst3.replace("is", "was"))  #  Python was great
+print(len(tst3))  # 19
 
 print(text.split(","))  # ['Apple', 'Banana', 'Cherry']
 print(text.split(",")[0])  # Apple
