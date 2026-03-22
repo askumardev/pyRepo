@@ -1,6 +1,9 @@
 # pyRepo-
 
 ### pip3 install numpy
+```
+pip3 install requests
+```
 
 pip3 install psycopg2 -- pg db connection
 
