@@ -1,13 +1,16 @@
 # python3 Basics/recursion.py
 
 
-def fact(n):
-  if(n==0 or n==1):
-    return 1
-  return n * fact(n-1)
+def factorial(n):
+    # Base case
+    if n == 0 or n == 1:
+        return 1
+    # Recursive case
+    return n * factorial(n - 1)
 
-result = fact(5)
-print(result)
+# 🔥 Example usage
+num = int(input("Enter a number to find its factorial: "))
+print(f"Factorial of {num} is:", factorial(num))
 
 print("---------------------------------")
 
@@ -17,8 +20,9 @@ def fib(n):
     return n
   return fib(n-1) + fib(n-2)
 
-result = fib(10)
-print(result)
+num = int(input("Enter the Fibonacci index: "))
+result = fib(num)
+print(f"Fibonacci number of {num} is: {result}")
 
 #import sys
 #print(sys.getrecursionlimit())
