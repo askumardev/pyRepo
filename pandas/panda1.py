@@ -1,4 +1,7 @@
 import pandas as pd
-df = pd.read_csv("products.csv")
+import os
+
+file_path = os.path.join(os.path.dirname(__file__), "products.csv")
+df = pd.read_csv(file_path)
 print(df)
 
