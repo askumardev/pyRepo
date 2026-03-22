@@ -16,13 +16,23 @@ print("---------------------------------")
 
 
 def fib(n):
-  if(n==0 or n==1):
-    return n
-  return fib(n-1) + fib(n-2)
+    if n == 0 or n == 1:
+        return n
+    return fib(n - 1) + fib(n - 2)
 
-num = int(input("Enter the Fibonacci index: "))
-result = fib(num)
-print(f"Fibonacci number of {num} is: {result}")
+
+num = int(input("Enter the number of terms: "))
+
+total = 0
+
+print("Fibonacci Series:")
+
+for i in range(num):
+    value = fib(i)
+    print(value, end=" ")
+    total += value
+
+print("\nSum of series:", total)
 
 #import sys
 #print(sys.getrecursionlimit())
