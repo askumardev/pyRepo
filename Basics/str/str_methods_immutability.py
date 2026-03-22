@@ -6,6 +6,9 @@ text1 = "Python123"
 # tst[0] = "k"
 # print(tst)  # TypeError: 'str' object does not support item assignment
 
+print(ord("P"))  # 80
+print(chr(80))  # P
+
 print(tst.upper())  # PYTHON
 print(tst.upper(), tst)  # PYTHON Python
 print(len(tst))  # 6
