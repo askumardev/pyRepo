@@ -1,6 +1,9 @@
 sq  = lambda x: x**2
 cube = lambda x: x**3
 sum = lambda a, b: a + b
+list1 = [1, 2, 3, 4, 5]
+squared_list = list(map(sq, list1))
+print("Squared List:", squared_list)  # Output: [1, 4, 9, 16, 25]
 
 '''
 def sum(a, b):
