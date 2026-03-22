@@ -2,6 +2,7 @@ tst = "Python"
 tst2 = "hello world"
 tst3 = " Python is great"
 text = "Apple,Banana,Cherry"
+text1 = "Python123"
 # tst[0] = "k"
 # print(tst)  # TypeError: 'str' object does not support item assignment
 
@@ -25,3 +26,11 @@ print(text.split(",")[0])  # Apple
 print(text.split(",")[1])  #  Banana
 print(text.replace(",", "|"))  # Apple|Banana|Cherry
 print(text.replace(",", " | "))  # Apple | Banana | Cherry
+
+print(text1.isalnum())  # True
+print(text1.isalpha())  # False
+print(text1.isdigit())  # False
+print(text1.islower())  # False
+print(text1.isupper())  # False
+print(text1.isnumeric())  # False
+print(text1.isspace())  # False
