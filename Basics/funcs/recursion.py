@@ -1,4 +1,4 @@
-# python3 Basics/recursion_factorial.py
+# python3 Basics/recursion.py
 
 
 def fact(n):
