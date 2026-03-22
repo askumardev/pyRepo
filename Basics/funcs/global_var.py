@@ -4,7 +4,7 @@ def sum(a, b):
     c = a + b + z
     return c
 
-z = 20
+z = 20 # this is a global variable
 result = sum(5, 10)
 print("The sum is:", result)
 print("The value of z is:", z) # this will print 10, not 20, because we modified z inside the function
