@@ -1,39 +1,42 @@
-# python3 Basics/ObjCls/setter_getter.py
-
 class Student:
 
-  school = "vikas"
+    school = "vikas"
 
-  def __init__(self,m1,m2,m3):
-    self.m1 = m1
-    self.m2 = m2
-    self.m3 = m3
+    def __init__(self, m1, m2, m3):
+        self.m1 = m1
+        self.m2 = m2
+        self.m3 = m3
 
-  def avg(self):
-    return (self.m1 + self.m2 + self.m3)/3
+    def avg(self):
+        return (self.m1 + self.m2 + self.m3) / 3
 
-  def getM1(self):  #getter
-    return self.m1
+    # Getter
+    def get_m1(self):
+        return self.m1
 
-  def setM1(self,val):  #setter
-    self.m1 = val
+    # Setter
+    def set_m1(self, value):
+        self.m1 = value
 
-  @classmethod   #decorator
-  def getSchool(cls):  #class method
-    return cls.school
+    # Class method (without decorator → use class directly)
+    def get_school():
+        return Student.school
 
-  @staticmethod  #decorator
-  def info():
-    print("Static method demo")  #static method
+    # Static-like method (just normal method)
+    def info():
+        print("Static method demo")
 
-    
-s1 = Student(23,34,45)
-s2 = Student(34,45,67)
+
+# Usage
+s1 = Student(500, 34, 45)
+print("------------below is the getter 500 -----------------------")
+print(s1.get_m1())   # getter
+print("------------below is the setter 200 -----------------------")
+s1.set_m1(200)       # setter
+
+print(s1.get_m1())
 
 print(s1.avg())
-print(s2.avg())
 
-print(s1.getSchool())
-print(Student.getSchool())
-
+print(Student.get_school())
 Student.info()
