@@ -9,6 +9,7 @@ class Emp:
 
 e = Emp()
 # print(e.company)
+#  print(e.sampleMethod()) #TypeError: Emp.sampleMethod() takes 0 positional arguments but 1 was given
 print(Emp.sampleMethod())
 print("-----------------------------")
 e1 = Emp()
