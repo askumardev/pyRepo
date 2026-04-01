@@ -1,0 +1,8 @@
+Write a python function which is capable of converting stringd like "hey   i am good" to "hey-i-am-fine".
+remove spaces and special characters and replace them with dashes.
+
+can you add 5 more usages to test
+
+i dont want to use re package
+
+add comments to this file for better understanding
