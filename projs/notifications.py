@@ -15,7 +15,6 @@ import time
 import subprocess
 from datetime import datetime
 
-os.environ.setdefault("DBUS_SESSION_BUS_ADDRESS", f"unix:path=/run/user/{os.getuid()}/bus")
 
 def send_notification(title, message):
     try:
