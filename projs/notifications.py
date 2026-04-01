@@ -1,32 +1,15 @@
-# import time
-# from plyer import notification
-# from datetime import datetime
-
-
-# while True:
-#   print("Please flex your muscles and take a break!")
-#   notification.notify(
-#     title = "Time to take a break!",
-#     message = "Please flex your muscles and take a break!")
-#   time.sleep(3600) # Sleep for 1 hour (3600 seconds)
-
-
 import time
-import subprocess
+from plyer import notification
 from datetime import datetime
 
-
-def send_notification(title, message):
-    try:
-        subprocess.run(["notify-send", title, message], check=True)
-    except (subprocess.CalledProcessError, FileNotFoundError):
-        pass  # silently skip if no display available
-
+# tested on Windows 11. WSL2 does not support notifications.
 while True:
-    now = datetime.now().strftime("%H:%M")
-    message = "Please flex your muscles and take a break!"
-    
-    print(f"[{now}] {message}")
-    send_notification("Time to take a break!", message)
-    time.sleep(3600)
+  print("Please flex your muscles and take a break!")
+  notification.notify(
+    title = "Time to take a break!",
+    message = "Please flex your muscles and take a break!")
+  time.sleep(60) # Sleep for 1 hour (3600 seconds)
+
+
+
 # python3 projs/notifications.py
